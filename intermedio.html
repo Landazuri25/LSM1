@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="https://kit.fontawesome.com/b13f203677.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+
+    <title>Intermedio</title>
+</head>
+
+
+
+
+<body>
+    <h1 style="color: #1a2537; text-align: center;">Aprende México en LSM</h1>
+    <h1 style="color: black; text-align: center; margin-left: 0em;"> Intermedio</h1>
+
+
+
+    <a href="practicamenu.html"><img src="img/flecha.png" style=" width: 80px; margin-top: -1em; margin-left: 1em; position: absolute;" ></a>
+
+
+
+
+    
+
+    <style>
+
+        *{
+            transition: all 0.3s;
+          
+        }
+
+        body {
+            background-color: slategray;
+            overflow-y: hidden;
+            overflow-x: hidden;
+
+            
+        }
+
+        .contenedor1{
+            width: 98vw;
+            height: 97vh;
+            display: inline-flex;
+
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+           
+        }
+
+        .encabezado {
+background-color: white;
+
+min-width: 300px;
+
+max-width: 600px;
+width: 70%;
+
+text-align: center;
+
+padding: 10px;
+
+        }
+
+        .Categoria{
+
+        opacity: 0.3;
+        text-align: left;
+        }
+
+        .Pregunta{
+            padding: 10px;
+        }
+
+        .imagen{
+
+            object-fit: cover;
+            height: 350px;
+            width: 100%;
+        }
+
+        .video{
+      
+       
+
+object-fit: cover;
+height: 450px;
+width: 500px;
+
+}
+
+        .button {
+            background-color: #1a2537;
+           width: 60%; 
+           max-width: 380px;
+           padding: 10px;
+           margin: 5px;
+
+         color: white;
+    
+        
+    }
+ 
+    
+    @keyframes pulse {
+        0% {
+            transform: scale(.99);
+            box-shadow: 0 0 0 0 rgba(256, 256, 256, .1);
+        }
+        70% {
+            transform: scale(1);
+            box-shadow: 0 0 0 10px rgba(256, 256, 256, 0);
+        }
+        100% {
+            transform: scale(.99);
+            box-shadow: 0 0 0 0 rgba(256, 256, 256, 0);
+        }
+    }
+
+
+        .button:hover{
+
+
+
+            cursor: pointer;
+            transform: scale(1.09);
+
+        }
+
+
+        .contenedor2{
+            width: 98vw;
+            height: 97vh;
+            display: inline-flex;
+
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+
+            border: 1px solid black;
+        }
+
+        .encabezado2 {
+background-color: white;
+
+min-width: 300px;
+
+max-width: 600px;
+width: 70%;
+
+
+
+text-align: center;
+
+padding: 10px;
+
+        }
+
+        .Categoria2{
+
+        opacity: 0.3;
+        text-align: left;
+        }
+
+        .Pregunta2{
+            padding: 10px;
+        }
+
+        .imagen{
+
+            object-fit: cover;
+            height: 350px;
+            width: 100%;
+        }
+
+        .audio{
+
+object-fit: cover;
+height: 50px;
+width: 250px;
+}
+
+        .video{
+
+object-fit: cover;
+height: 400px;
+width: 250px;
+}
+
+
+.imagen10{
+
+visibility: initial;
+
+}
+
+.imagen11{
+
+visibility: initial;
+
+}
+
+.imagen9{
+
+visibility: hidden;
+
+}
+
+.imagen8{
+
+visibility: hidden;
+
+}
+
+.imagen7{
+
+visibility: hidden;
+
+}
+
+
+.imagen6{
+
+visibility: hidden;
+
+}
+
+      
+
+        .imagen3{
+
+           visibility: hidden;
+
+        }
+
+        .imagen2{
+
+
+
+visibility: hidden;
+
+}
+
+.imagen5{
+
+
+visibility: hidden;
+}
+
+.imagen4{
+
+
+visibility: hidden;
+}
+
+.imagen1{
+
+
+visibility: hidden;
+}
+
+.imagen0{
+
+
+visibility: hidden;
+}
+
+.btn2 {
+           background-color: white;
+           width: 60%; 
+           max-width: 450px;
+           padding: 10px;
+           margin: 5px;
+            }
+        .btn2:hover{
+background-color: white;
+            
+            cursor: pointer;
+            transform: scale(1.05);
+
+        }
+
+        
+
+    </style>
+
+
+
+
+
+
+<div class="contenedor1">
+
+    <h3 style="margin-right: 53em; margin-bottom: 0em;">¿A que capital hace referencia la imagen?</h3>
+
+
+    
+
+    <div class="encabezado" style="margin-right: 50em; margin-bottom: 11.5em;  width: 650px; height: 450px; background-color: slategray;" >
+
+        <div class="Categoria" id="Categoria"> 
+            Categoria
+        </div>
+        <div class="Pregunta" id="Pregunta">
+            Pregunta
+        </div>
+
+        <img src="" class="imagen" id="imagen" style="width: 650px; height: 500px; border-style: solid; border-color: black; border-width: thin;"">
+    </div>
+
+
+
+  
+
+
+
+    <div class="button" id="btn1"   onclick="oprimir_btn(0)" style="position: absolute; margin-right: 63em; margin-top: 40em; border-color: black; border-style: solid; text-align: center;">Opcion 1</div>
+    <div class="button" id="btn2" onclick="oprimir_btn(1)   "  style="position: absolute; margin-right: 4em; margin-top: 40em; border-style: solid; border-color: black; text-align: center;">Opcion 3</div>
+    <div class="button" id="btn3" onclick="oprimir_btn(2)" style="position: absolute; margin-right: -55em; margin-top: 40em; border-color: black; border-style: solid; text-align: center; " >Opcion 3</div>
+    
+
+    
+</div>
+
+
+
+
+
+<div class="contenedor2">
+
+    
+
+    <div class="encabezado2" style="margin-right: -58em; margin-bottom: 115.5em; position: absolute; height: 450px; width: 600px; background-color: slategray;">
+
+        <img src="img/vidas.png" style="width: 70px; position: absolute; height: 70px; margin-left: 12em; margin-top: -16em; "  alt="">
+
+        <img src="img/3.png" class="imagen3" id="imagen3" style="width: 50px; position: absolute; height: 50px; margin-left: 17em; margin-top: -15em; "  alt="">
+
+        <img src="img/2.png" class="imagen2" id="imagen2" style="width: 50px; position: absolute; height: 50px; margin-left: 17em; margin-top: -15em; "  alt="">
+
+        <img src="img/1.png" class="imagen1" id="imagen1" style="width: 50px; position: absolute; height: 50px; margin-left: 17em; margin-top: -15em; "  alt="">
+
+        <img src="img/4.png" class="imagen4" id="imagen4" style="width: 50px; position: absolute; height: 50px; margin-left: 17em; margin-top: -15em; "  alt="">
+
+        <img src="img/5.png" class="imagen5" id="imagen5" style="width: 50px; position: absolute; height: 50px; margin-left: 17em; margin-top: -15em; "  alt="">
+
+        <img src="img/0.png" class="imagen0" id="imagen0" style="width: 50px; position: absolute; height: 50px; margin-left: 17em; margin-top: -15em; "  alt="">
+
+
+        <img src="img/6.png" class="imagen6" id="imagen6" style="width: 50px; position: absolute; height: 50px; margin-left: 17em; margin-top: -15em; "  alt="">
+
+        <img src="img/7.png" class="imagen7" id="imagen7" style="width: 50px; position: absolute; height: 50px; margin-left: 17em; margin-top: -15em; "  alt="">
+
+        <img src="img/8.png" class="imagen8" id="imagen8" style="width: 50px; position: absolute; height: 50px; margin-left: 17em; margin-top: -15em; "  alt="">
+
+        <img src="img/9.png" class="imagen9" id="imagen9" style="width: 50px; position: absolute; height: 50px; margin-left: 17em; margin-top: -15em; "  alt="">
+
+        <img src="img/1.png" class="imagen10" id="imagen10" style="width: 50px; position: absolute; height: 50px; margin-left: 17em; margin-top: -15em; "  alt="">
+
+        <img src="img/0.png" class="imagen11" id="imagen11" style="width: 50px; position: absolute; height: 50px; margin-left: 18em; margin-top: -15em; "  alt="">
+
+
+    
+
+        
+
+        <div class="Categoria" id="Categoria"> 
+            
+         
+           
+        </div>
+        <div class="Pregunta" id="Pregunta" style="margin-bottom: 10em; position: absolute; text-align: center;">
+            
+            
+        </div>
+
+        
+        <div style="border-color: black; border-style: solid; border-width: thin; width: 450px; margin-top: -4em; height: 500px;"">
+            <video src=""  class="video" id="video" style="margin-top: 3em;" muted controls loop></video>   
+
+        </div>
+
+
+</div>
+   
+        
+
+
+
+
+
+
+    </div>
+
+
+
+    
+
+    
+
+
+    
+</div>
+
+<div class="overlay32" id="overlay32">
+
+    <div class="popup32" id="popup32">
+    
+        <a href="Aprendizajemenu.html" id="btn-cerrar-popup32" class="btn-cerrar-popup32"> <i class="fas fa-times"> </i></a>
+        <h2 style="margin-top: -1em;"> Has finalizado el juego </h2>
+        <form name="input" action="experto.html" method="post">
+            <input type="text" name="user" id="mytext" style="background-color: slategray; height: 30px; color: darkgreen; align-items: center; text-align: center; border-color: slategray; border-style: solid; margin-top: 1em;">
+          
+           </form>
+           <h4 style="position: absolute; margin-top: -1.3em; margin-left: 2em; color: darkgreen;">Aciertos</h4>
+           <br>
+           <br>
+           <form name="input" action="experto.html" method="post">
+            <input type="text1" name="user1" id="mytext1" style="background-color: slategray; height: 30px; color: #c12838; align-items: center; text-align: center; border-color: slategray; border-style: solid; margin-bottom: 1.5em;">
+          
+           </form>
+
+           <h4 style="position: absolute; margin-top: -2em; margin-left: 2em; color: #c12838;">Errores</h4>
+        <a href="practicamenu.html">Regresar al menú</a>
+        <a href="intermedio.html" style="margin-left: 2em;"> Volver a jugar</a>
+        
+    
+        
+    
+    </div>
+</div>
+
+<script>
+
+    
+
+let base_preguntas = readText ("base-preguntas1.json")
+let interprete_bp = JSON.parse(base_preguntas)
+
+
+let Pregunta
+let posibles_respuestas
+var vidas1=10;
+var vidas2=5;
+var correctas=0;
+var incorrectas=0;
+var imagen2 = document.getElementById('imagen2');
+var imagen3 = document.getElementById('imagen3');
+var imagen1 = document.getElementById('imagen1');
+var imagen4 = document.getElementById('imagen4');
+var imagen5 = document.getElementById('imagen5');
+
+var imagen0 = document.getElementById('imagen0');
+
+
+
+let btn_correspondiente = [
+
+select_id("btn1"),select_id("btn2"),select_id("btn3")
+
+
+
+
+
+
+]
+
+escogerPreguntaAleatoria()
+
+
+
+function escogerPreguntaAleatoria() {
+
+    escogerPregunta(Math.floor(Math.random()*interprete_bp.length))
+    
+}
+
+
+function escogerPregunta (n) {
+
+    Pregunta = interprete_bp [n]
+
+    select_id("Categoria").innerHTML = Pregunta.Categoria
+
+    select_id("Pregunta").innerHTML = Pregunta.Pregunta
+
+    select_id("imagen").setAttribute("src", Pregunta.imagen)
+
+    style("imagen").objectFit = Pregunta.objectFit;
+
+    select_id("video").setAttribute("src", Pregunta.video)
+
+    style("video").objectFit = Pregunta.objectFit;
+
+
+ 
+desordenarRespuestas(Pregunta)
+
+
+
+ 
+
+}
+
+
+
+function desordenarRespuestas(Pregunta) {
+
+    posibles_respuestas=[Pregunta.Respuesta,
+    Pregunta.Incorrecta1,
+    Pregunta.Incorrecta2
+
+]
+
+posibles_respuestas.sort(()=> Math.random()-0.5)
+    select_id("btn1").innerHTML = posibles_respuestas[0]
+
+select_id("btn2").innerHTML = posibles_respuestas[1]
+select_id("btn3").innerHTML = posibles_respuestas[2]
+
+
+}
+
+
+
+
+function oprimir_btn(i) {
+
+    if (posibles_respuestas[i] ==Pregunta.Respuesta) {
+
+btn_correspondiente [i].style.background = "lightgreen"
+correctas++;
+
+if(correctas+incorrectas==31)
+    {
+        var btnAbrirPopup32 = document.getElementById('btn-abrir-popup32'),
+	overlay32 = document.getElementById('overlay32'),
+	popup32 = document.getElementById('popup32'),
+	btnCerrarPopup32 = document.getElementById('btn-cerrar-popup32');
+
+    overlay32.classList.add('active');
+	popup32.classList.add('active');
+
+    
+    document.getElementById("mytext").value = correctas;
+
+    
+    document.getElementById("mytext1").value = incorrectas;
+   
+
+btnCerrarPopup32.addEventListener('click', function(e){
+	e.preventDefault();
+	overlay32.classList.remove('active');
+	popup32.classList.remove('active');
+
+	
+});
+    }
+}else {
+
+    btn_correspondiente [i].style.background = "#c12838"
+
+    incorrectas++;
+    vidas1--;
+
+    console.log(vidas1)
+
+
+    if(vidas1==9)
+
+{
+
+    imagen11.style.visibility = "hidden"
+
+imagen10.style.visibility ="hidden"
+
+imagen9.style.visibility="initial"
+
+}
+
+    if(vidas1==8)
+
+{
+
+imagen9.style.visibility ="hidden"
+
+imagen8.style.visibility="initial"
+
+}
+
+    if(vidas1==7)
+
+{
+
+imagen8.style.visibility ="hidden"
+
+imagen7.style.visibility="initial"
+
+}
+
+if(vidas1==6)
+
+{
+
+imagen7.style.visibility="hidden"
+imagen6.style.visibility ="initial"
+
+imagen5.style.visibility="hidden"
+
+}
+
+
+    if(vidas1==5)
+
+{
+
+imagen5.style.visibility ="initial"
+
+imagen6.style.visibility="hidden"
+
+}
+
+
+    if(vidas1==4)
+
+    {
+
+imagen5.style.visibility ="hidden"
+
+imagen4.style.visibility="initial"
+    
+    }
+
+
+    if(vidas1==3)
+
+{
+
+imagen4.style.visibility ="hidden"
+
+imagen3.style.visibility="initial"
+
+}
+
+
+if(vidas1==2)
+
+{
+
+imagen3.style.visibility ="hidden"
+
+imagen2.style.visibility="initial"
+
+}
+
+
+if(vidas1==1)
+
+{
+
+imagen2.style.visibility ="hidden"
+
+imagen1.style.visibility="initial"
+
+}
+
+
+if(vidas1==0)
+
+{
+
+    imagen1.style.visibility ="hidden"
+
+imagen0.style.visibility="initial"
+
+        var btnAbrirPopup32 = document.getElementById('btn-abrir-popup32'),
+	overlay32 = document.getElementById('overlay32'),
+	popup32 = document.getElementById('popup32'),
+	btnCerrarPopup32 = document.getElementById('btn-cerrar-popup32');
+
+    overlay32.classList.add('active');
+	popup32.classList.add('active');
+
+    document.getElementById("mytext").value = correctas;
+
+    
+    document.getElementById("mytext1").value = incorrectas;
+
+
+
+    }
+
+    
+    
+    if(correctas+incorrectas==31)
+    {
+        var btnAbrirPopup32 = document.getElementById('btn-abrir-popup32'),
+	overlay32 = document.getElementById('overlay32'),
+	popup32 = document.getElementById('popup32'),
+	btnCerrarPopup32 = document.getElementById('btn-cerrar-popup32');
+
+    overlay32.classList.add('active');
+	popup32.classList.add('active');
+    alert("Correctas:" + correctas )
+        alert("incorrectas:" + incorrectas )
+
+btnCerrarPopup32.addEventListener('click', function(e){
+	e.preventDefault();
+	overlay32.classList.remove('active');
+	popup32.classList.remove('active');
+
+
+
+	
+});
+    }
+
+
+}
+
+setTimeout (( ) => {
+
+reiniciar()
+
+},3000);
+
+}
+
+function reiniciar () {
+
+
+    for (const btn of btn_correspondiente) {
+
+        btn.style.background = "#1a2537"
+        
+    }
+
+    escogerPreguntaAleatoria ()
+}
+
+
+
+
+
+function select_id(id) {
+    return document.getElementById(id)
+}
+
+function style (id) {
+
+    return select_id(id).style
+}
+
+function readText(ruta_local) {
+
+    var texto = null;
+    var xmlhttp = new XMLHttpRequest();
+    xmlhttp.open("GET",ruta_local,false);
+    xmlhttp.send();
+
+    if (xmlhttp.status == 200) {
+        texto = xmlhttp.responseText;
+    }
+
+    return texto;
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    
+</body>
+</html>

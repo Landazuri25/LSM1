@@ -1,0 +1,680 @@
+[
+
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Yucatan" ,
+    
+        "Incorrecta1" : "Baja California Sur" ,
+    
+        "Incorrecta2" : "Veracruz",
+    
+        "video" : "videos/yucatan.mp4",
+    
+        "audio" : "img/aguascalientes.mp3",
+        
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Nuevo Leon" ,
+    
+        "Incorrecta1" : "Baja California Sur" ,
+    
+        "Incorrecta2" : "Veracruz",
+    
+    
+        "video" : "videos/nuevoleon.mp4",
+        "audio" : "img/aguascalientes.mp3",
+    
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Veracruz" ,
+    
+        "Incorrecta1" : "Sonora" ,
+    
+        "Incorrecta2" : "Sinaloa",
+       
+        "video" : "videos/veracruz.mp4",
+        "audio" : "img/aguascalientes.mp3",
+    
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Hidalgo" ,
+    
+        "Incorrecta1" : "Aguascalientes" ,
+    
+        "Incorrecta2" : "CDMX",
+   
+        "video" : "videos/Hidalgo.mp4",
+        "audio" : "img/aguascalientes.mp3",
+    
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Quintana roo" ,
+    
+        "Incorrecta1" : "Nayarit" ,
+    
+        "Incorrecta2" : "Veracruz",
+   
+        "video" : "videos/QuintanaRoo.mp4",
+        "audio" : "img/aguascalientes.mp3",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Sinaloa" ,
+    
+        "Incorrecta1" : "Baja California Sur" ,
+    
+        "Incorrecta2" : "Guerrero",
+    
+        "imagen" : "img/sinaloa.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Sonora" ,
+    
+        "Incorrecta1" : "Baja California " ,
+    
+        "Incorrecta2" : "Hidalgo",
+    
+        "imagen" : "img/sonora.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Baja California" ,
+    
+        "Incorrecta1" : "CDMX" ,
+    
+        "Incorrecta2" : "Veracruz",
+    
+        "imagen" : "img/bc.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Baja California Sur" ,
+    
+        "Incorrecta1" : "Baja California " ,
+    
+        "Incorrecta2" : "Jalisco",
+    
+        "imagen" : "img/bcs.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Aguascalientes" ,
+    
+        "Incorrecta1" : "Nayarit " ,
+    
+        "Incorrecta2" : "Jalisco",
+    
+        "imagen" : "img/aguascalientes.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Coahuila" ,
+    
+        "Incorrecta1" : "Yucatan " ,
+    
+        "Incorrecta2" : "Nuevo Leon",
+    
+        "imagen" : "img/coahuila.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Durango" ,
+    
+        "Incorrecta1" : "Guerrero " ,
+    
+        "Incorrecta2" : "Oaxaca",
+    
+        "imagen" : "img/durango.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Guerrero" ,
+    
+        "Incorrecta1" : "Oaxaca " ,
+    
+        "Incorrecta2" : "Jalisco",
+    
+        "imagen" : "img/guerrero.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "San luis Potosi" ,
+    
+        "Incorrecta1" : "Baja California Sur " ,
+    
+        "Incorrecta2" : "Chihuahua",
+    
+        "imagen" : "img/snl.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Chihuahua" ,
+    
+        "Incorrecta1" : "Puebla" ,
+    
+        "Incorrecta2" : "Queretaro",
+    
+        "imagen" : "img/chihuahua.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Puebla" ,
+    
+        "Incorrecta1" : "Morelos " ,
+    
+        "Incorrecta2" : "Tlaxcala",
+    
+        "imagen" : "img/puebla.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Tlaxcala" ,
+    
+        "Incorrecta1" : "Hidalgo " ,
+    
+        "Incorrecta2" : "Sinaloa",
+        "imagen" : "img/tlaxcala.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Tabasco" ,
+    
+        "Incorrecta1" : "Baja California " ,
+    
+        "Incorrecta2" : "Veracurz",
+    
+        "imagen" : "img/tabasco.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Tamaulipas" ,
+    
+        "Incorrecta1" : "Oaxaca " ,
+    
+        "Incorrecta2" : "Sonora",
+    
+        "imagen" : "img/tamaulipas.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Estado de mexico" ,
+    
+        "Incorrecta1" : "CDMX " ,
+    
+        "Incorrecta2" : "Yucatan",
+    
+        "imagen" : "img/estadodemexico.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "CDMX" ,
+    
+        "Incorrecta1" : "Baja California " ,
+    
+        "Incorrecta2" : "Jalisco",
+    
+        "imagen" : "img/cdmx.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Chiapas" ,
+    
+        "Incorrecta1" : "Baja California sur " ,
+    
+        "Incorrecta2" : "Colima",
+        "imagen" : "img/chiapas.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Colima" ,
+    
+        "Incorrecta1" : "Sinaloa " ,
+    
+        "Incorrecta2" : "Yucatan",
+    
+        "imagen" : "img/colima.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Jalisco" ,
+    
+        "Incorrecta1" : "Oaxaca " ,
+    
+        "Incorrecta2" : "Veracruz",
+    
+        "imagen" : "img/jalisco.jpg",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Guanajuato" ,
+    
+        "Incorrecta1" : "Nuevo Leon" ,
+    
+        "Incorrecta2" : "Sinaloa",
+    
+        "imagen" : "img/guanajuato.jpg",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Michoacan" ,
+    
+        "Incorrecta1" : "Tabasco " ,
+    
+        "Incorrecta2" : "Oaxaca",
+    
+        "imagen" : "img/michoacan.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Morelos" ,
+    
+        "Incorrecta1" : "Nayarit " ,
+    
+        "Incorrecta2" : "Sinaloa",
+        "imagen" : "img/morelos.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Nayarit" ,
+    
+        "Incorrecta1" : "Baja California " ,
+    
+        "Incorrecta2" : "Nuevo leon",
+    
+        "imagen" : "img/nayarit.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Oaxaca" ,
+    
+        "Incorrecta1" : "Sonora " ,
+    
+        "Incorrecta2" : "Tabasco",
+    
+        "imagen" : "img/oaxaca.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Queretaro" ,
+    
+        "Incorrecta1" : "Baja California " ,
+    
+        "Incorrecta2" : "Tlaxcala",
+    
+        "imagen" : "img/queretaro.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "Estados",
+    
+        "Pregunta" : "¿A Que estado hace referencia la imagen ?",
+    
+        "Respuesta" : "Zacatecas" ,
+    
+        "Incorrecta1" : "Hidalgo " ,
+    
+        "Incorrecta2" : "Puebla",
+    
+        "imagen" : "img/zaca.png",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    ]

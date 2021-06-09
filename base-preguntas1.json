@@ -1,0 +1,746 @@
+[
+
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Mérida" ,
+    
+        "Incorrecta1" : " La Paz " ,
+    
+        "Incorrecta2" : "Xalapa",
+    
+        "imagen" : "img/yucatan.gif",
+        "video" : "videos/Merida.mp4",
+
+    
+        
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Monterrey" ,
+    
+        "Incorrecta1" : "La Paz" ,
+    
+        "Incorrecta2" : "Xalapa",
+    
+    
+        "imagen" : "img/nuevoleon.gif",
+        "video" : "videos/monterrey.mp4",
+       
+    
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Xalapa" ,
+    
+        "Incorrecta1" : "Hermosillo" ,
+    
+        "Incorrecta2" : "Culiacán",
+    
+        "imagen" : "img/veracruz.gif",
+        "video" : "videos/xalapa.mp4",
+    
+    
+       
+    
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Pachuca" ,
+    
+        "Incorrecta1" : "Aguascalientes" ,
+    
+        "Incorrecta2" : "Ciudad de México",
+        "imagen" : "img/hidalgo.gif",
+        "video" : "videos/pachuca.mp4",
+       
+    
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : " Chetumal" ,
+    
+        "Incorrecta1" : "Tepic" ,
+    
+        "Incorrecta2" : "Xalapa",
+        "imagen" : "img/quintanaroo.gif",
+        "video" : "videos/Chetumal.mp4",
+        "audio" : "audios/Chetumal.ogg",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Culiacán" ,
+    
+        "Incorrecta1" : "La Paz" ,
+    
+        "Incorrecta2" : "Xilpancingo",
+    
+        "imagen" : "img/sinaloa.gif",
+    
+        "video" : "videos/culiacan.mp4",
+    
+      
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Hermosillo" ,
+    
+        "Incorrecta1" : "Mexicali " ,
+    
+        "Incorrecta2" : "Pachuca",
+    
+        "imagen" : "img/sonora.gif",
+    
+        
+        "video" : "videos/hermosillo.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Mexicali" ,
+    
+        "Incorrecta1" : "Ciudad de México" ,
+    
+        "Incorrecta2" : "Xalapa",
+    
+        "imagen" : "img/bc.gif",
+    
+        "video" : "videos/mexicali.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    },
+    
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "La Paz" ,
+    
+        "Incorrecta1" : "Mexicali " ,
+    
+        "Incorrecta2" : "Guadalajara",
+    
+        "imagen" : "img/bcs.gif",
+
+        "video" : "videos/bajacaliforniasur.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Aguascalientes" ,
+    
+        "Incorrecta1" : "Tepic " ,
+    
+        "Incorrecta2" : "Guadalajara",
+    
+        "imagen" : "img/aguascalientes.png",
+    
+        "video" : "videos/aguascalientes.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Saltillo" ,
+    
+        "Incorrecta1" : "Mérida " ,
+    
+        "Incorrecta2" : "Monterrey",
+    
+        "imagen" : "img/coahuila.png",
+
+        "video" : "videos/saltillo.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Durango" ,
+    
+        "Incorrecta1" : "Chilpancingo " ,
+    
+        "Incorrecta2" : "Oaxaca",
+    
+        "imagen" : "img/durango.png",
+     
+        "video" : "videos/durango.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Xilpancingo" ,
+    
+        "Incorrecta1" : "Oaxaca " ,
+    
+        "Incorrecta2" : "Guadalajara",
+    
+        "imagen" : "img/guerrero.png",
+
+        "video" : "videos/chilpancingo.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "San Luis Potosí" ,
+    
+        "Incorrecta1" : "La Paz " ,
+    
+        "Incorrecta2" : "Chihuahua",
+    
+        "imagen" : "img/snl.png",
+        
+        "video" : "videos/sanluispotosi.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Chihuahua" ,
+    
+        "Incorrecta1" : "Puebla" ,
+    
+        "Incorrecta2" : "Querétaro",
+    
+        "imagen" : "img/chihuahua.png",
+   
+        "video" : "videos/chihuahua.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Puebla" ,
+    
+        "Incorrecta1" : "Cuernavaca " ,
+    
+        "Incorrecta2" : "Tlaxcala",
+    
+        "imagen" : "img/puebla.png",
+
+        "video" : "videos/puebla.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Tlaxcala" ,
+    
+        "Incorrecta1" : "Pachuca " ,
+    
+        "Incorrecta2" : "Culiacán",
+        "imagen" : "img/tlaxcala.png",
+
+        "video" : "videos/tlaxcala.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Villahermosa" ,
+    
+        "Incorrecta1" : "Mexicali " ,
+    
+        "Incorrecta2" : "Xalapa",
+    
+        "imagen" : "img/tabasco.png",
+ 
+        "video" : "videos/villahermosa.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Ciudad Victoria" ,
+    
+        "Incorrecta1" : "Oaxaca " ,
+    
+        "Incorrecta2" : "Hermosillo",
+    
+        "imagen" : "img/tamaulipas.png",
+        
+        "video" : "videos/CiudadVictoria.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Toluca" ,
+    
+        "Incorrecta1" : "Ciudad de México " ,
+    
+        "Incorrecta2" : "Ciudad Victoria",
+    
+        "imagen" : "img/estadodemexico.png",
+     
+        "video" : "videos/Toluca.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Ciudad de México" ,
+    
+        "Incorrecta1" : "Durango " ,
+    
+        "Incorrecta2" : "Tlaxcala",
+    
+        "imagen" : "img/cdmx.png",
+    
+      
+        "video" : "videos/cddemexico.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Tuxtla Gutiérrez" ,
+    
+        "Incorrecta1" : " La Paz " ,
+    
+        "Incorrecta2" : "Ciudad Victoria",
+        "imagen" : "img/chiapas.png",
+    
+     
+        "video" : "videos/chiapas.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Colima" ,
+    
+        "Incorrecta1" : "Culiacán " ,
+    
+        "Incorrecta2" : "Zacatecas",
+    
+        "imagen" : "img/colima.png",
+    
+  
+        "video" : "videos/colima.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Guadalajara" ,
+    
+        "Incorrecta1" : "Oaxaca " ,
+    
+        "Incorrecta2" : "Monterrey",
+    
+        "imagen" : "img/jalisco.png",
+      
+        "video" : "videos/Guadalajara_X.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Guanajuato" ,
+    
+        "Incorrecta1" : "Monterrey" ,
+    
+        "Incorrecta2" : "Mexicali",
+    
+        "imagen" : "img/guanajuato.png",
+       
+        "video" : "videos/guanajuato.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Morelia" ,
+    
+        "Incorrecta1" : "Tuxtla Gutiérrez " ,
+    
+        "Incorrecta2" : "Oaxaca",
+    
+        "imagen" : "img/michoacan.png",
+    
+  
+        "video" : "videos/morelia.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Cuernavaca" ,
+    
+        "Incorrecta1" : "Tepic " ,
+    
+        "Incorrecta2" : "Culiacán",
+        "imagen" : "img/morelos.png",
+    
+   
+        "video" : "videos/Cuernavaca.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Tepic" ,
+    
+        "Incorrecta1" : "La Paz " ,
+    
+        "Incorrecta2" : "Xilpancingo",
+    
+        "imagen" : "img/nayarit.png",
+
+        "video" : "videos/tepic.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : " ",
+        "Pregunta" : "",
+    
+        "Respuesta" : "Oaxaca" ,
+    
+        "Incorrecta1" : "Hermosillo " ,
+    
+        "Incorrecta2" : "Villahermosa",
+    
+        "imagen" : "img/oaxaca.png",
+        "audio" : "audios/oaxaca.ogg",
+        "video" : "videos/oaxaca.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : "",
+    
+        "Pregunta" : "",
+    
+        "Respuesta" : "Querétaro" ,
+    
+        "Incorrecta1" : "Colima " ,
+    
+        "Incorrecta2" : "Tlaxcala",
+    
+        "imagen" : "img/queretaro.png",
+    
+
+        "video" : "videos/Queretaro_X.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }, 
+    
+    
+    {
+    
+        "Categoria" : " ",
+        "Pregunta" : "",
+    
+    
+        "Respuesta" : "Zacatecas" ,
+    
+        "Incorrecta1" : "Pachuca " ,
+    
+        "Incorrecta2" : "Puebla",
+    
+        "imagen" : "img/zaca.png",
+    
+       
+        "video" : "videos/zacatecas.mp4",
+    
+        "object_fit" : "cover"
+    
+        
+    
+        
+    }
+    
+    
+    
+    
+    
+    
+    
+    ]
