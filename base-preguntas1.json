@@ -40,7 +40,7 @@
     
     
         "imagen" : "img/nuevoleon.gif",
-        "video" : "videos/monterrey.mp4",
+        "video" : "videos/Monterrey.mp4",
        
     
     
@@ -64,7 +64,7 @@
         "Incorrecta2" : "Culiacán",
     
         "imagen" : "img/veracruz.gif",
-        "video" : "videos/xalapa.mp4",
+        "video" : "videos/Xalapa.mp4",
     
     
        
@@ -89,7 +89,7 @@
     
         "Incorrecta2" : "Ciudad de México",
         "imagen" : "img/hidalgo.gif",
-        "video" : "videos/pachuca.mp4",
+        "video" : "videos/Pachuca.mp4",
        
     
     
@@ -136,7 +136,7 @@
     
         "imagen" : "img/sinaloa.gif",
     
-        "video" : "videos/culiacan.mp4",
+        "video" : "videos/Culiacan.mp4",
     
       
     
@@ -162,7 +162,7 @@
         "imagen" : "img/sonora.gif",
     
         
-        "video" : "videos/hermosillo.mp4",
+        "video" : "videos/Hermosillo.mp4",
     
         "object_fit" : "cover"
     
@@ -186,7 +186,7 @@
     
         "imagen" : "img/bc.gif",
     
-        "video" : "videos/mexicali.mp4",
+        "video" : "videos/Mexicali.mp4",
     
         "object_fit" : "cover"
     
@@ -210,7 +210,7 @@
     
         "imagen" : "img/bcs.gif",
 
-        "video" : "videos/bajacaliforniasur.mp4",
+        "video" : "videos/LaPaz.mp4",
     
         "object_fit" : "cover"
     
@@ -233,7 +233,7 @@
     
         "imagen" : "img/aguascalientes.png",
     
-        "video" : "videos/aguascalientes.mp4",
+        "video" : "videos/Aguascalientes.mp4",
     
         "object_fit" : "cover"
     
@@ -256,7 +256,7 @@
     
         "imagen" : "img/coahuila.png",
 
-        "video" : "videos/saltillo.mp4",
+        "video" : "videos/Saltillo.mp4",
     
         "object_fit" : "cover"
     
@@ -279,7 +279,7 @@
     
         "imagen" : "img/durango.png",
      
-        "video" : "videos/durango.mp4",
+        "video" : "videos/Durango.mp4",
     
         "object_fit" : "cover"
     
@@ -302,7 +302,7 @@
     
         "imagen" : "img/guerrero.png",
 
-        "video" : "videos/chilpancingo.mp4",
+        "video" : "videos/Chilpancingo.mp4",
     
         "object_fit" : "cover"
     
@@ -325,7 +325,7 @@
     
         "imagen" : "img/snl.png",
         
-        "video" : "videos/sanluispotosi.mp4",
+        "video" : "videos/SanLuisPotosi.mp4",
     
         "object_fit" : "cover"
     
@@ -348,7 +348,7 @@
     
         "imagen" : "img/chihuahua.png",
    
-        "video" : "videos/chihuahua.mp4",
+        "video" : "videos/Chihuahua.mp4",
     
         "object_fit" : "cover"
     
@@ -371,7 +371,7 @@
     
         "imagen" : "img/puebla.png",
 
-        "video" : "videos/puebla.mp4",
+        "video" : "videos/Puebla.mp4",
     
         "object_fit" : "cover"
     
@@ -393,7 +393,7 @@
         "Incorrecta2" : "Culiacán",
         "imagen" : "img/tlaxcala.png",
 
-        "video" : "videos/tlaxcala.mp4",
+        "video" : "videos/Tlaxcala.mp4",
     
         "object_fit" : "cover"
     
@@ -416,7 +416,7 @@
     
         "imagen" : "img/tabasco.png",
  
-        "video" : "videos/villahermosa.mp4",
+        "video" : "videos/Villahermosa.mp4",
     
         "object_fit" : "cover"
     
@@ -485,7 +485,7 @@
         "imagen" : "img/cdmx.png",
     
       
-        "video" : "videos/cddemexico.mp4",
+        "video" : "videos/CdDeMexico.mp4",
     
         "object_fit" : "cover"
     
@@ -509,7 +509,7 @@
         "imagen" : "img/chiapas.png",
     
      
-        "video" : "videos/chiapas.mp4",
+        "video" : "videos/Chiapas.mp4",
     
         "object_fit" : "cover"
     
@@ -534,7 +534,7 @@
         "imagen" : "img/colima.png",
     
   
-        "video" : "videos/colima.mp4",
+        "video" : "videos/Colima.mp4",
     
         "object_fit" : "cover"
     
@@ -582,7 +582,7 @@
     
         "imagen" : "img/guanajuato.png",
        
-        "video" : "videos/guanajuato.mp4",
+        "video" : "videos/Guanajuato.mp4",
     
         "object_fit" : "cover"
     
@@ -607,7 +607,7 @@
         "imagen" : "img/michoacan.png",
     
   
-        "video" : "videos/morelia.mp4",
+        "video" : "videos/Morelia.mp4",
     
         "object_fit" : "cover"
     
@@ -655,7 +655,7 @@
     
         "imagen" : "img/nayarit.png",
 
-        "video" : "videos/tepic.mp4",
+        "video" : "videos/Tepic.mp4",
     
         "object_fit" : "cover"
     
@@ -678,7 +678,7 @@
     
         "imagen" : "img/oaxaca.png",
         "audio" : "audios/oaxaca.ogg",
-        "video" : "videos/oaxaca.mp4",
+        "video" : "videos/Oaxaca.mp4",
     
         "object_fit" : "cover"
     
@@ -728,7 +728,7 @@
         "imagen" : "img/zaca.png",
     
        
-        "video" : "videos/zacatecas.mp4",
+        "video" : "videos/Zacatecas.mp4",
     
         "object_fit" : "cover"
     

@@ -13,7 +13,7 @@
     "Incorrecta2" : "Veracruz",
 
     "imagen" : "img/yucatan.gif",
-    "video" : "videos/yucatan.mp4",
+    "video" : "videos/Yucatan.mp4",
     "audio" : "audios/yucatan.ogg",
 
     
@@ -64,7 +64,7 @@
     "Incorrecta2" : "Sinaloa",
 
     "imagen" : "img/veracruz.gif",
-    "video" : "videos/veracruz.mp4",
+    "video" : "videos/Veracruz.mp4",
 
 
     "audio" : "audios/veracruz.ogg",
@@ -89,7 +89,7 @@
 
     "Incorrecta2" : "Ciudad de México",
     "imagen" : "img/hidalgo.gif",
-    "video" : "videos/hidalgo.mp4",
+    "video" : "videos/Hidalgo.mp4",
     "audio" : "audios/hidalgo.ogg",
 
 
@@ -112,7 +112,7 @@
 
     "Incorrecta2" : "Veracruz",
     "imagen" : "img/quintanaroo.gif",
-    "video" : "videos/quintanaroo.mp4",
+    "video" : "videos/QuintanaRoo.mp4",
     "audio" : "audios/quintanaroo.ogg",
 
     "object_fit" : "cover"
@@ -136,7 +136,7 @@
 
     "imagen" : "img/sinaloa.gif",
 
-    "video" : "videos/sinaloa.mp4",
+    "video" : "videos/Sinaloa.mp4",
 
     "audio" : "audios/sinaloa.ogg",
 
@@ -162,7 +162,7 @@
     "imagen" : "img/sonora.gif",
 
     "audio" : "audios/sonora.ogg",
-    "video" : "videos/sonora.mp4",
+    "video" : "videos/Sonora.mp4",
 
     "object_fit" : "cover"
 
@@ -212,7 +212,7 @@
     "imagen" : "img/bcs.gif",
 
     "audio" : "audios/bcs.ogg",
-    "video" : "videos/bajacaliforniasur.mp4",
+    "video" : "videos/BajaCaliforniaSur.mp4",
 
     "object_fit" : "cover"
 
@@ -235,7 +235,7 @@
 
     "imagen" : "img/aguascalientes.png",
     "audio" : "audios/aguascalientes.ogg",
-    "video" : "videos/aguascalientes.mp4",
+    "video" : "videos/Aguascalientes.mp4",
 
     "object_fit" : "cover"
 
@@ -258,7 +258,7 @@
 
     "imagen" : "img/coahuila.png",
     "audio" : "audios/coahuila.ogg",
-    "video" : "videos/coahuila.mp4",
+    "video" : "videos/Coahuila.mp4",
 
     "object_fit" : "cover"
 
@@ -281,7 +281,7 @@
 
     "imagen" : "img/durango.png",
     "audio" : "audios/durango.ogg",
-    "video" : "videos/durango.mp4",
+    "video" : "videos/Durango.mp4",
 
     "object_fit" : "cover"
 
@@ -304,7 +304,7 @@
 
     "imagen" : "img/guerrero.png",
     "audio" : "audios/guerrero.ogg",
-    "video" : "videos/guerrero.mp4",
+    "video" : "videos/Guerrero.mp4",
 
     "object_fit" : "cover"
 
@@ -327,7 +327,7 @@
 
     "imagen" : "img/slp.png",
     "audio" : "audios/slp.ogg",
-    "video" : "videos/sanluispotosi.mp4",
+    "video" : "videos/SanLuisPotosi.mp4",
 
     "object_fit" : "cover"
 
@@ -350,7 +350,7 @@
 
     "imagen" : "img/chihuahua.png",
     "audio" : "audios/chihuahua.ogg",
-    "video" : "videos/chihuahua.mp4",
+    "video" : "videos/Chihuahua.mp4",
 
     "object_fit" : "cover"
 
@@ -373,7 +373,7 @@
 
     "imagen" : "img/puebla.png",
     "audio" : "audios/puebla.ogg",
-    "video" : "videos/puebla.mp4",
+    "video" : "videos/Puebla.mp4",
 
     "object_fit" : "cover"
 
@@ -395,7 +395,7 @@
     "Incorrecta2" : "Sinaloa",
     "imagen" : "img/tlaxcala.png",
     "audio" : "audios/tlaxcala.ogg",
-    "video" : "videos/tlaxcala.mp4",
+    "video" : "videos/Tlaxcala.mp4",
 
     "object_fit" : "cover"
 
@@ -418,7 +418,7 @@
 
     "imagen" : "img/tabasco.png",
     "audio" : "audios/tabasco.ogg",
-    "video" : "videos/tabasco.mp4",
+    "video" : "videos/Tabasco.mp4",
 
     "object_fit" : "cover"
 
@@ -441,7 +441,7 @@
 
     "imagen" : "img/tamaulipas.png",
     "audio" : "audios/tamaulipas.ogg",
-    "video" : "videos/tamaulipas.mp4",
+    "video" : "videos/Tamaulipas.mp4",
 
     "object_fit" : "cover"
 
@@ -511,7 +511,7 @@
     "imagen" : "img/chiapas.png",
 
     "audio" : "audios/chiapas.ogg",
-    "video" : "videos/chiapas.mp4",
+    "video" : "videos/Chiapas.mp4",
 
     "object_fit" : "cover"
 
@@ -536,7 +536,7 @@
     "imagen" : "img/colima.png",
 
     "audio" : "audios/colima.ogg",
-    "video" : "videos/colima.mp4",
+    "video" : "videos/Colima.mp4",
 
     "object_fit" : "cover"
 
@@ -560,7 +560,7 @@
 
     "imagen" : "img/jalisco.png",
     "audio" : "audios/jalisco.ogg",
-    "video" : "videos/jalisco.mp4",
+    "video" : "videos/Jalisco.mp4",
 
     "object_fit" : "cover"
 
@@ -584,7 +584,7 @@
 
     "imagen" : "img/guanajuato.png",
     "audio" : "audios/guanajuato.ogg",
-    "video" : "videos/guanajuato.mp4",
+    "video" : "videos/Guanajuato.mp4",
 
     "object_fit" : "cover"
 
@@ -609,7 +609,7 @@
     "imagen" : "img/michoacan.png",
 
     "audio" : "audios/michoacan.ogg",
-    "video" : "videos/michoacan.mp4",
+    "video" : "videos/Michoacan.mp4",
 
     "object_fit" : "cover"
 
@@ -633,7 +633,7 @@
     "imagen" : "img/morelos.png",
 
     "audio" : "audios/morelos.ogg",
-    "video" : "videos/morelos.mp4",
+    "video" : "videos/Morelos.mp4",
 
     "object_fit" : "cover"
 
@@ -658,7 +658,7 @@
     "imagen" : "img/nayarit.png",
 
     "audio" : "audios/nayarit.ogg",
-    "video" : "videos/nayarit.mp4",
+    "video" : "videos/Nayarit.mp4",
 
     "object_fit" : "cover"
 
@@ -682,7 +682,7 @@
 
     "imagen" : "img/oaxaca.png",
     "audio" : "audios/oaxaca.ogg",
-    "video" : "videos/oaxaca.mp4",
+    "video" : "videos/Oaxaca.mp4",
 
     "object_fit" : "cover"
 
@@ -732,7 +732,7 @@
     "imagen" : "img/zaca.png",
 
     "audio" : "audios/zacatecas.ogg",
-    "video" : "videos/zacatecas.mp4",
+    "video" : "videos/Zacatecas.mp4",
 
     "object_fit" : "cover"
 
