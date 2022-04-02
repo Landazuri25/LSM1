@@ -1,0 +1,13 @@
+body h1{
+    font-weight: bold;
+}
+
+#tablaDiv{
+    border-style: solid;
+    width: 600px;
+    margin: 0 auto;
+}
+
+#tablaDiv h3{
+    text-align: center;
+}
