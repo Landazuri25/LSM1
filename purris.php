@@ -1,3 +1,6 @@
+<?php
+    $puntuacion = $_POST["punto"];
+ ?>
 
 <!DOCTYPE html>
 <html lang="es">
@@ -14,7 +17,7 @@
         <form class="formulario" action="login_registrar.php" method="POST">
             <h1>Ingresar puntos</h1>
             <div class="contenedor" style="margin-top: 1em; margin-right: -1em;">
-                <div class="input-contenedor">
+                <div class="input-contenedor" >
                     <i class="fas fa-envelope icon"></i>
                     <input type="text" placeholder="Usuario" name="usuario" required>
                 </div>
@@ -22,6 +25,8 @@
                     <i class="fas fa-key icon"></i>
                     <input type="password" placeholder="Contraseña" name="pass" required>
                 </div>
+                <p>La puntuacion es de: <?php echo $puntuacion;?></p>
+                <?php $_POST["pn"] = $puntuacion?>
             </div>
             <a href="inicio.html" > <input type="submit" value="Ingresar puntos" class="button" name="btningresar"></a>
             <p>Al registrarte, aceptas nuestras Condiciones de uso y Política de privacidad.</p>

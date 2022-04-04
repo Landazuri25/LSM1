@@ -1,21 +1,22 @@
 <?php
 include("conexion.php");
-
+$conexion=mysqli_connect('localhost', 'root', '', 'lsm');
 $nombre = $_POST["usuario"];
 $pass = $_POST["pass"];
-$puntuacion = $_POST["salate"];
+$puntuacion = $_POST["pn"];
 
 //LOGIN
 if(isset($_POST["btningresar"]))
 {
+    $sql="SELECT * from puntos";
+    $result=mysqli_query($conexion,$sql);
+    $id =mysqli_fetch_array($result);
+
     $query = mysqli_query($conn,"SELECT * FROM login WHERE usuario = '$nombre'AND contraseña='$pass'");
     $nr = mysqli_num_rows($query);
 
     if($nr==1){
-
-        $puntuacion = $_POST["salate"];
-        $sqlgrabarpuntos = "INSERT INTO puntos(usuario,puntuacion) values ('$nombre', '$puntuacion')";
-        mysqli_query($conn,$sqlgrabarpuntos);
+        mysqli_query($conn,"UPDATE puntos SET puntuacion= 1 WHERE id=1");
         echo "<script> alert('Bienvenido $nombre'); window.location='index.html' </script>";
     }else
     {
@@ -35,6 +36,26 @@ if(isset($_POST["btnregistrar"]))
     }else
     {
         echo "Error:".$sql."<br>".mysql_error($conn);
+    }
+}
+
+//Puntos
+if(isset($_POST["btnpuntuacion"]))
+{
+    $sql="SELECT * from puntos";
+    $result=mysqli_query($conexion,$sql);
+    $id =mysqli_fetch_array($result);
+
+    $query = mysqli_query($conn,"SELECT * FROM login WHERE usuario = '$nombre'AND contraseña='$pass'");
+    $nr = mysqli_num_rows($query);
+
+    if($nr==1){
+        mysqli_query($conn,"UPDATE puntos SET puntuacion= 1 WHERE id=1");
+        echo "<script> alert('Bienvenido $puntuacion'); window.location='index.html' </script>";
+    }else
+    {
+
+        echo "<script> alert('Este usuario no existe $puntuacion,hOLA'); window.location='index.html' </script>";
     }
 }
 ?>
