@@ -65,14 +65,14 @@
                 </thead>
                 <tbody>
                     <?php
-                        $sql="SELECT * from login";
+                        $sql="SELECT * from puntos";
                         $result=mysqli_query($conexion,$sql);
                         while($mostrar=mysqli_fetch_array($result)){
                     ?>
                         <tr>
                             <td><?php echo $mostrar['id']?></td>
                             <td><?php echo $mostrar['usuario']?></td>
-                            <td><?php echo $mostrar['contraseña']?></td>
+                            <td><?php echo $mostrar['puntuacion']?></td>
                         </tr>
                     <?php
                         }

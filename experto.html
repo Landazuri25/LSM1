@@ -7,6 +7,24 @@
     <link rel="stylesheet" href="style.css">
 
     <title>Experto</title>
+    <style>
+    .button {
+        background: linear-gradient(102deg, #1a2537 40%, #1a2537 60%);
+        color: white;
+        display: inline-block;
+        padding: 1rem 2rem;
+        border-radius: .25rem;
+        min-width: 200px;
+        text-decoration: none;
+        box-shadow: 0 0 0 0 rgba(0, 0, 0, .5);
+        animation: pulse 1.5s infinite;
+    }
+
+    .button:hover{
+    transform: scale(1.09);
+        cursor: pointer;
+    }
+    </style>
 </head>
 
 
@@ -232,13 +250,8 @@ visibility: hidden;
 
         <div style="width: 500px; height: 450px; border-style: solid; border-color: black; border-width: thin; margin-top: -1em; margin-left: 4em;">
             <video src=""  class="video" id="video" style="margin-top: 1.5em; margin-left: 1.5em; " muted controls loop></video>   
-        
         </div>
 
-
-        
-
-     
         <img src="img/4.png" class="imagen4" id="imagen4" style="width: 50px; position: absolute; height: 50px; margin-left: 40em; margin-top: -37em; "  alt="">
         <img src="img/5.png" class="imagen5" id="imagen5" style="width: 50px; position: absolute; height: 50px; margin-left: 40em; margin-top: -37em; "  alt="">
 
@@ -271,25 +284,18 @@ visibility: hidden;
     
         <a href="Aprendizajemenu.html" id="btn-cerrar-popup32" class="btn-cerrar-popup32"> <i class="fas fa-times"> </i></a>
         <h2 style="margin-top: -1em;"> Has finalizado el juego </h2>
-        <form name="input" action="experto.html" method="post">
-            <input type="text" name="user" id="mytext" style="background-color: slategray; height: 30px; color: darkgreen; align-items: center; text-align: center; border-color: slategray; border-style: solid; margin-top: 1em;">
-          
-           </form>
-           <h4 style="position: absolute; margin-top: -1.3em; margin-left: 2em; color: darkgreen;">Aciertos</h4>
+        <form name="input" action="purris.html" method="POST">
+            <input type="text" name="salate" id="mytext" style="background-color: slategray; height: 30px; color: darkgreen; align-items: center; text-align: center; border-color: slategray; border-style: solid; margin-top: 1em; font-size: 30px;">   
+        </form>
+           <h4 style="position: absolute; margin-top: -1.3em; margin-left: 2em; font-size: 30px; color: darkgreen;"><b>Aciertos</b></h4>
            <br>
            <br>
-           <form name="input" action="experto.html" method="post">
-            <input type="text1" name="user1" id="mytext1" style="background-color: slategray; height: 30px; color: #c12838; align-items: center; text-align: center; border-color: slategray; border-style: solid; margin-bottom: 1.5em;">
-          
-           </form>
+            <input type="text1" name="user1" id="mytext1" style="background-color: slategray; height: 30px; color: #c12838; align-items: center; text-align: center; border-color: slategray; border-style: solid; margin-bottom: 1.5em; font-size: 30px;">
 
-           <h4 style="position: absolute; margin-top: -2em; margin-left: 2em; color: #c12838;">Errores</h4>
-        <a href="practicamenu.html">Regresar al menú</a>
-        <a href="experto.html" style="margin-left: 2em;"> Volver a jugar</a>
-        
-    
-        
-    
+           <h4 style="position: absolute; margin-top: -2em; margin-left: 2em; color: #c12838; font-size: 30px;"><b>Errores</b></h4>
+        <a href="practicamenu.html" style="margin-left: -19em;"><input type="button" value="Regresar al Menú" class="button" id="iniciarSesion_Button" style="background:#895dcf; color: black; width: 300px; height: 70px; font-size:larger; border-color: black; border-style: solid; position: absolute;"></a>
+        <a href="experto.html" style="margin-left: 20em;"><input type="button" value="Volver a jugar" class="button" id="volverjugar_Button" style="background:#895dcf; color: black; width: 300px; height: 70px; font-size:larger; border-color: black; border-style: solid; position: absolute;"></a>
+        <a href="purris.html" style="margin-left: 20em;"> <input type="button" value="Ingresar Puntos" class="button" id="ingresarpuntos_Button" style="background:#895dcf; color: black; width: 300px; height: 70px; font-size:larger; border-color: black; border-style: solid; position: absolute;"></a>
     </div>
 </div>
 
