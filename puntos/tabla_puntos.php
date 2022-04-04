@@ -1,3 +1,7 @@
+<?php
+    $conexion=mysqli_connect('localhost', 'root', '', 'lsm');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,6 +11,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+    
     <title>Aprende Mexico LSM</title>
 
     <style>
@@ -59,21 +64,19 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <th scope="row">1</th>
-                        <td>Mark</td>
-                        <td>0</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">2</th>
-                        <td>Marko</td>
-                        <td>0</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">3</th>
-                        <td>Marko</td>
-                        <td>0</td>
-                    </tr>
+                    <?php
+                        $sql="SELECT * from login";
+                        $result=mysqli_query($conexion,$sql);
+                        while($mostrar=mysqli_fetch_array($result)){
+                    ?>
+                        <tr>
+                            <td><?php echo $mostrar['id']?></td>
+                            <td><?php echo $mostrar['usuario']?></td>
+                            <td><?php echo $mostrar['contraseña']?></td>
+                        </tr>
+                    <?php
+                        }
+                    ?>
                 </tbody>
             </table>
         </div>
